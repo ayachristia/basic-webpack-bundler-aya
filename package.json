@@ -18,7 +18,10 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.3",
     "image-minimizer-webpack-plugin": "^3.8.3",
+<<<<<<< HEAD
     "image-webpack-loader": "^8.1.0",
+=======
+>>>>>>> 847bd4a74e2cdc4b61a803037cd89424916d2d6c
     "imagemin": "^8.0.1",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegtran": "^7.0.0",
@@ -36,8 +39,11 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
+<<<<<<< HEAD
   },
   "dependencies": {
     "copy-webpack-plugin": "^11.0.0"
+=======
+>>>>>>> 847bd4a74e2cdc4b61a803037cd89424916d2d6c
   }
 }
