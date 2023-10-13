@@ -1,13 +1,14 @@
 @use "./scss/reset";
 @use "./scss/header";
 @use "./scss/primaryMenu";
+@use "./scss/cards";
 
 
 :root {
 	--mainBg: salmon;
 }
 
-$light-text: moccasin;
+$light-text: rgb(12, 12, 12);
 
 body {
 	background-color: var(--mainBg);
